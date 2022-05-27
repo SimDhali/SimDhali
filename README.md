@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SimDhali
-- 👀 I’m interested in creating beautiful front end designs with scalable back end logic
-- 🌱 I’m currently learning how to be a full stack developer @Le Wagon
-- 💞️ I’m looking to collaborate on any projects
+- 👨🏾‍💻 I’m currently working as a Full-Stack Software Engineer @Graze
 - 📫 Reach me via email 
 
 <!---
