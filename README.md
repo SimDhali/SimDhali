@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SimDhali
-- 👨🏾‍💻 I’m currently working as a Full-Stack Software Engineer @Graze
+- 👨🏾‍💻 I’m currently working as a Full-Stack Software Engineer @graze
 - 📫 Reach me via email: simran.piers.dhaliwal@gmail.com
 
 <!---
